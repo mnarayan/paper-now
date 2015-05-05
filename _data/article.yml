@@ -6,10 +6,10 @@ date: 2015-03-15T12:00:00Z
 doi: # e.g. 10.1234/example.1
 
 authors:
-  - &alice-jones
-    id: "alice-jones"
-    name: "Alice Jones"
-    email: "alice.jones@example.com"
+  - &manjari-narayan
+    id: "manjari-narayan"
+    name: "Manjari Narayan"
+    email: "manjari.narayan"
     url: http://example.com/authors/1
     orcid: "00000000-0000-0000-000001"
 
