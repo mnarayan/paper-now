@@ -1,3 +1,4 @@
+#Testing compilation
 safe: true
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'serve.sh', 'article.png', 'LICENSE']
 baseurl: /paper-now
